@@ -1,0 +1,21 @@
+.miscellaneous-container {
+  width: 1440px;
+  height: 74px;
+  background: #fafafa;
+}
+
+.miscellaneous {
+  width: 1050px;
+  height: 74px;
+  margin: 0 195px;
+  display: flex;
+  align-items: center;
+}
+
+.miscellaneous > h6 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  color: #737373;
+}

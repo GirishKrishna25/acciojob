@@ -1,0 +1,77 @@
+.hero {
+  width: 1292px;
+  display: flex;
+  background-color: #9deaef;
+  margin-left: 59px;
+  margin-top: 34px;
+  border-radius: 20px;
+}
+
+.text-container {
+  width: 697px;
+  height: 619px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+
+  padding: 126.5px;
+}
+
+.label {
+  width: 122px;
+  height: 24px;
+
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  color: #2a7cc7;
+}
+
+.title {
+  width: 565px;
+  height: 80px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 58px;
+  letter-spacing: 0.2px;
+  color: #252b42;
+}
+
+.description {
+  width: 369px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #737373;
+}
+
+.text-container > button {
+  width: 228px;
+  height: 62px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #23a6f0;
+  border-radius: 5px;
+  border: none;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+}
+
+.image-container {
+  width: 697px;
+  height: 619px;
+  margin-right: 9.5px;
+}

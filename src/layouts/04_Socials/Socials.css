@@ -1,0 +1,36 @@
+.container {
+  margin: 95px 3px 0 3px;
+}
+
+.socials {
+  width: 1050px;
+  height: 138px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 195px;
+  margin-right: 195px;
+}
+
+.socials > p {
+  width: 236px;
+  height: 58px;
+
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  color: #252b42;
+}
+
+.socials > ul {
+  list-style: none;
+  padding: 0;
+
+  width: 236px;
+  height: 24px;
+
+  display: flex;
+  justify-content: space-around;
+}
